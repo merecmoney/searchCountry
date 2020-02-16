@@ -12,16 +12,16 @@ I'm from) to find it you could enter __"MX"__ or __"MEX"__
 
 - Find Mexico using preffix __"MX"__ which is its abbreviation
 
-![Find Mexico using preffix "MX"](./../READMEimages/1.png)
+![Find Mexico using preffix "MX"](/READMEimages/1.png)
 
 - Find Mexico using preffix __"MEX"__ which is its first 3 name characters
 
-![Find Mexico using preffix "MX"](./../READMEimages/2.png)
+![Find Mexico using preffix "MX"](/READMEimages/2.png)
 
 - You could also find all countries which name or abbreviation start
 with __"A"__
 
-![Find all countries with prefix "A"](../READMEimages/3.png)
+![Find all countries with prefix "A"](/READMEimages/3.png)
 
 #### Data Structures Used
 
